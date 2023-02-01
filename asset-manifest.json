@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.740acdc9.css",
+    "main.js": "/static/js/main.92766f6b.js",
+    "static/media/Zight-Fly-Away.mp3": "/static/media/Zight-Fly-Away.347b3196e397176dfaeb.mp3",
+    "static/media/We_The_Kings-Sad-Song-feat_Elena-Coats.mp3": "/static/media/We_The_Kings-Sad-Song-feat_Elena-Coats.0d12ac3d3121c3e57b93.mp3",
+    "static/media/Ömer_Bükülmezoğlu-Cry.mp3": "/static/media/Ömer_Bükülmezoğlu-Cry.c2c9d3ae79754a2de4a0.mp3",
+    "static/media/Alan_Walker-Darkside.mp3": "/static/media/Alan_Walker-Darkside.c0b06aba5fd476cb4647.mp3",
+    "static/media/Zight-Everybody_Keep_Running.mp3": "/static/media/Zight-Everybody_Keep_Running.b0b48994fb7cfc54708f.mp3",
+    "static/media/NEFFEX-Destiny.mp3": "/static/media/NEFFEX-Destiny.d5bbb05dc13b00b251fc.mp3",
+    "static/media/Instrumental_by_khusravanna.mp3": "/static/media/Instrumental_by_khusravanna.9eb79084b41a1d6d2afe.mp3",
+    "static/media/Someone_You_Loved-Brittany_Maggs.mp3": "/static/media/Someone_You_Loved-Brittany_Maggs.36e772afc9af2b0116c9.mp3",
+    "static/media/img4.jpg": "/static/media/img4.7f5b781a32f12364f7b3.jpg",
+    "static/media/img3.jpg": "/static/media/img3.7ceb80e67b82df60cd81.jpg",
+    "static/media/img8.jpg": "/static/media/img8.e397295ef0f6d691d359.jpg",
+    "static/media/img5.jpg": "/static/media/img5.10d6f46151b6432fc822.jpg",
+    "static/media/img6.jpg": "/static/media/img6.8c6ff02f8fcea002b69a.jpg",
+    "static/media/img7.jpg": "/static/media/img7.05f1c623acb1a1537727.jpg",
+    "static/media/img2.jpg": "/static/media/img2.cb30b00a755074b5af07.jpg",
+    "index.html": "/index.html",
+    "main.740acdc9.css.map": "/static/css/main.740acdc9.css.map",
+    "main.92766f6b.js.map": "/static/js/main.92766f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.740acdc9.css",
+    "static/js/main.92766f6b.js"
+  ]
+}
